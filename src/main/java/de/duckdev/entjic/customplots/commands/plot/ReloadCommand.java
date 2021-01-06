@@ -1,4 +1,4 @@
-package de.duckdev.entjic.customplots.commands.claim.plotcommands;
+package de.duckdev.entjic.customplots.commands.plot;
 
 import de.duckdev.entjic.customplots.file.Config;
 import de.duckdev.entjic.customplots.util.PlotContainer;

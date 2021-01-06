@@ -1,6 +1,6 @@
 package de.duckdev.entjic.customplots.commands.claim;
 
-import de.duckdev.entjic.customplots.commands.claim.plotcommands.DeleteCommand;
+import de.duckdev.entjic.customplots.commands.plot.DeleteCommand;
 import de.duckdev.entjic.customplots.listener.RightclickBlockListener;
 import org.spongepowered.api.command.CommandException;
 import org.spongepowered.api.command.CommandResult;

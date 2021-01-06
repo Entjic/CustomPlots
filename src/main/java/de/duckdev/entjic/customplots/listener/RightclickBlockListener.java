@@ -1,6 +1,6 @@
 package de.duckdev.entjic.customplots.listener;
 
-import de.duckdev.entjic.customplots.commands.claim.plotcommands.CreateCommand;
+import de.duckdev.entjic.customplots.commands.plot.CreateCommand;
 import de.duckdev.entjic.customplots.util.Plot;
 import de.duckdev.entjic.customplots.util.PlotContainer;
 import java.util.Arrays;
